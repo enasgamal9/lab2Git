@@ -1,10 +1,12 @@
 - How to remove Branches locally and remotely . .
     *LOCALLY:
-    ```
+    ```bash
         git checkout main
         git branch -d <branch>
     ```
-    ------------------------------
+```python
+------------------------------
+```
     *REMOTELY
         `git push origin --delete <branch>`
         OR

@@ -1,7 +1,7 @@
--How to remove Branches locally and remotely . .
-    *LOCALLY:
-        `git checkout main`
-        `git branch -d <branch>`
+-How to remove Branches locally and remotely . . <br />
+    *LOCALLY: <br />
+        `git checkout main` <br />
+        `git branch -d <branch>` <br />
     ------------------------------
     *REMOTELY
         `git push origin --delete <branch>`

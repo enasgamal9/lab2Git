@@ -1,4 +1,4 @@
-- How to remove Branches locally and remotely . .
+-How to remove Branches locally and remotely . .
     *LOCALLY:
         `git checkout main`
         `git branch -d <branch>`
@@ -9,7 +9,7 @@
         `git push origin :<branch>`
     ------------------------
 
-- How to list tags . .
+-How to list tags . .
     `git tag`
     ------------------------
 

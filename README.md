@@ -17,4 +17,7 @@
     *LOCALLY<br />
         `git tag -d v1.7`<br />
     *REMOTELY<br />
-        `git push --delete origin v1.7`<br />
+        `git push --delete origin v1.7`<br /><br />
+    ------------------------<br /><br />
+-Image:<br />
+<img src="https://cdn2.vectorstock.com/i/1000x1000/33/71/hello-bubble-vector-9493371.jpg" alt="IMG">
